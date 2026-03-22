@@ -75,13 +75,13 @@ chrome://extensions/
 ---
 
 ## Project structure
-
-focus-guard/
+```bash
+Focus_Guard_Extension/
 ├── manifest.json
 ├── content.js
 ├── popup.html
 ├── popup.js
-
+```
 ---
 
 ## Why I built this
